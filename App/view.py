@@ -43,11 +43,7 @@ def printMenu():
     print("1- Cargar Libros")
     print("2- Cargar Tags")
     # TO-DO: Modificación de Est-1 en el Lab 2
-<<<<<<< HEAD
     print("3-Cargar Book Tags!")
-=======
-    print("3-Cargar Book Tags")
->>>>>>> origin/Alejandro-Segura---2
     print("0- Salir")
 
 
